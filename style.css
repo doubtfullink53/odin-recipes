@@ -3,6 +3,7 @@
     /* padding:0; */
 }
 body{
+  
   margin: auto;
   width: 50%;
   border: 3px solid rgb(230, 100, 14);
@@ -29,7 +30,7 @@ div.item {
 }
 img {
     width: 40%;
-    height: 100px;
+    height: 130px;
     background-color: grey;
     border: 1px solid #ddd;
     border-radius: 4px;
